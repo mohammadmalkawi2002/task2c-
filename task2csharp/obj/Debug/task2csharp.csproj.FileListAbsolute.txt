@@ -1,0 +1,7 @@
+D:\New folder\task2csharp\task2csharp\bin\Debug\task2csharp.exe.config
+D:\New folder\task2csharp\task2csharp\bin\Debug\task2csharp.exe
+D:\New folder\task2csharp\task2csharp\bin\Debug\task2csharp.pdb
+D:\New folder\task2csharp\task2csharp\obj\Debug\task2csharp.csproj.AssemblyReference.cache
+D:\New folder\task2csharp\task2csharp\obj\Debug\task2csharp.csproj.CoreCompileInputs.cache
+D:\New folder\task2csharp\task2csharp\obj\Debug\task2csharp.exe
+D:\New folder\task2csharp\task2csharp\obj\Debug\task2csharp.pdb
